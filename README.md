@@ -70,5 +70,7 @@ Je suis disponible pour toute opportunité d’échange ou d’entretien.
 - 📍 Localisation : Vitry-sur-Seine  
 - 📅 Disponibilité : Immédiate  
 - 💼 Alternance souhaitée en ingénierie systèmes industriels  
-- 🔗 GitHub : [github.com/Amal632](https://github.com/Amal632)
+- 🔗 GitHub : [github.com/Amal632](https://github.com/Amal632)  
+- 📧 Email : [amal.aitmoulay6@gmail.com](mailto:amal.aitmoulay6@gmail.com)  
+- 💼 LinkedIn : [linkedin.com/in/amal-ait-moulay-4a6720223](http://www.linkedin.com/in/amal-ait-moulay-4a6720223)
 
