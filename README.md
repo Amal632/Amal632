@@ -7,57 +7,66 @@
 
 ---
 
-## 🌟 À propos de moi
+## 🎓 Diplôme d’Ingénieur – Logiciels & Systèmes d’Information | EFREI Paris
 
-Ingénieure en devenir, passionnée par les **systèmes d’information critiques** et les **environnements techniques à fort enjeu**, je poursuis un cursus d’excellence en ingénierie informatique à l’**EFREI Paris**, enrichi par un double parcours en **mathématiques appliquées** et **gestion des données**.
+Cette formation forme des ingénieurs capables de concevoir des **systèmes numériques innovants** en réponse aux besoins des organisations. Proposée en alternance, elle combine **compétences techniques avancées**, **expérience professionnelle**, et **développement humain**.
 
-Mon objectif : **conjuguer rigueur, innovation et performance** au service de projets industriels complexes et essentiels — notamment au sein d’un groupe d’impact comme la **RATP**.
+### 🎯 Objectifs principaux :
+- Être un **acteur engagé** de la transformation digitale
+- Allier **expertise technique**, **gestion de projet**, **communication** et **leadership**
+- Évoluer dans des **métiers variés de l’informatique**, en France ou à l’international
+
+### 🧠 Compétences acquises :
+- Analyse des besoins métiers et élaboration de solutions adaptées
+- Conception, développement et déploiement de **logiciels robustes**
+- Maîtrise du **cycle de vie logiciel** et des **technologies numériques actuelles**
+- **Gestion de projet**, coordination d’équipes, conduite du changement
+- Excellentes aptitudes en **communication**, **écoute**, **rigueur** et **responsabilité**
 
 ---
 
 ## 🚆 Intérêt pour l'alternance RATP – Conception Systèmes Industriels
 
-Je suis particulièrement motivée par l’opportunité de rejoindre l’équipe **SES (SAE Espaces & SSI)** et de participer à la **conception**, au **déploiement**, et à la **maintenance** de systèmes critiques tels que :
+Je suis particulièrement motivée par l’opportunité de rejoindre l’équipe **SES (SAE Espaces & SSI)** et de contribuer à la **conception**, au **déploiement** et à la **maintenance** de systèmes critiques tels que :
 
 - 🔥 **Système de Sécurité Incendie (SSI)**
 - 🚦 **Système d’Aide à l’Exploitation (SAE)**
 
-Ces dispositifs, déployés à grande échelle sur les réseaux **Métro, RER et Tramway**, exigent une expertise pointue, une approche méthodique, et une vision orientée sécurité et fiabilité.
+Ces systèmes, utilisés à grande échelle dans les réseaux **Métro, RER et Tramway**, représentent un **défi technologique et humain majeur**.
 
 ---
 
 ## 🎯 Objectifs professionnels
 
 - 🔧 Administrer des **logiciels critiques** (architecture client/serveur)
-- 📈 Assurer la **qualité des déploiements** et piloter les **recettes techniques et fonctionnelles**
-- 🧠 Participer à l’**analyse des anomalies**, au **diagnostic**, et à la **rédaction des cahiers des charges**
-- 🚀 Monter en compétence sur les **environnements industriels à haute disponibilité**
+- 📈 Assurer la **qualité des déploiements** et piloter les **recettes techniques/fonctionnelles**
+- 🧠 Participer à l’**analyse des anomalies** et à la **rédaction des cahiers des charges**
+- 🚀 Monter en compétence sur les **systèmes industriels complexes**
 
 ---
 
-## 💼 Compétences clés
+## 💼 Compétences techniques
 
-- 💻 **Administration systèmes** (Linux/Windows), virtualisation, maintenance
+- 💻 **Administration systèmes** (Linux, Windows), virtualisation, maintenance
 - ⚙️ **Scripting** (Python, Bash), automatisation, supervision
-- 🧪 **Tests fonctionnels et techniques**, recettes, validation
-- 📚 **Documentation technique**, rédaction de procédures et rapports
-- 🧠 **Analyse de données**, modélisation, statistiques appliquées
+- 🧪 **Tests techniques et fonctionnels**, validation, intégration continue
+- 📚 **Documentation technique**, procédures, rapports d’analyse
+- 📊 **Analyse de données**, modélisation, statistiques appliquées
 
 ---
 
-## 💡 Forces personnelles
+## 💡 Qualités personnelles
 
-- 🔍 **Curiosité technique** et appétence pour les environnements de production
-- 🧭 **Esprit structuré**, rigueur analytique issue de mon background scientifique
-- 🤝 **Autonomie**, **fiabilité**, **sens des responsabilités**
-- 🔄 Adaptabilité face aux environnements exigeants et aux enjeux critiques
+- 🔍 Curieuse et motivée par les environnements à fort impact
+- 🧭 Esprit logique, structuré, issu d’un background scientifique solide
+- 🤝 Sens de l’initiative, autonomie, fiabilité
+- 🌀 Forte capacité d’adaptation et d’apprentissage
 
 ---
 
 ## 📫 Me contacter
 
-Je suis ouverte à toute opportunité d’échange ou de collaboration.  
-N'hésitez pas à me contacter pour discuter d’un projet, d’une alternance ou pour en savoir plus sur mes compétences.
+Je suis disponible pour tout échange professionnel ou proposition d’alternance.
 
 > 📍 Localisation : Vitry-sur-Seine  
 > 📬 Disponibilité : Immédiate – Alternance souhaitée  
@@ -65,5 +74,5 @@ N'hésitez pas à me contacter pour discuter d’un projet, d’une alternance o
 
 ---
 
-**Merci de votre visite sur mon profil !**  
-🚧 Portfolio en cours de construction – Restez connectés...
+**Merci pour votre attention !**  
+📌 Portfolio en cours de construction – restez connectés pour découvrir mes projets.
