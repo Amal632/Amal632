@@ -4,6 +4,7 @@
 
 📍 Vitry-sur-Seine | 💼 Disponible en Île-de-France | 💻 Télétravail accepté  
 🔗 GitHub : [github.com/Amal632](https://github.com/Amal632)
+📧 Email : [amal.aitmoulay6@gmail.com](mailto:amal.aitmoulay6@gmail.com)  
 
 ---
 
