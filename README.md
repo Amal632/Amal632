@@ -1,48 +1,69 @@
-# 👩‍💻 Amal Ait Moulay – Étudiante en Ingénierie Informatique
+# 👩‍💻 Amal Ait Moulay  
+**Étudiante en Ingénierie Informatique | Candidate à l’alternance – Ingénieur Systèmes Industriels**
 
-🎓 Candidate à l’alternance – **Ingénieur Conception Systèmes Industriels**  
-📍 Basée à Vitry-sur-Seine | 💼 Ouverte au télétravail et à la mobilité en Île-de-France
-
----
-
-Passionnée par les **systèmes d'information** et les **environnements techniques à fort impact**, je poursuis actuellement une formation en ingénierie informatique à l’**Efrei Paris**, avec une spécialisation en **data science** et **systèmes industriels**.
-
-Dotée d’un **double cursus en mathématiques appliquées et gestion des données**, je suis motivée à mettre mes compétences au service d’un acteur majeur de la mobilité comme la **RATP**, au sein d’une équipe dynamique et orientée performance.
+📍 Vitry-sur-Seine | 📬 Disponible en Île-de-France | 💻 Ouverte au télétravail  
+🎓 Étudiante à l’EFREI Paris – Parcours renforcé en Data Science et Systèmes Industriels  
+🔗 Portfolio en cours de développement | GitHub : [Amal632](https://github.com/Amal632)
 
 ---
 
-## 🔧 Pourquoi cette alternance m’inspire particulièrement ?
+## 🌟 À propos de moi
 
-L'opportunité de contribuer à la **conception, au déploiement et à la maintenance de systèmes critiques** comme :
-- le **Système de Sécurité Incendie (SSI)**
-- le **Système d’Aide à l’Exploitation (SAE)**
+Ingénieure en devenir, passionnée par les **systèmes d’information critiques** et les **environnements techniques à fort enjeu**, je poursuis un cursus d’excellence en ingénierie informatique à l’**EFREI Paris**, enrichi par un double parcours en **mathématiques appliquées** et **gestion des données**.
 
-Ces systèmes interviennent sur des milliers d’équipements des réseaux **Métro, RER et Tramway**, et exigent à la fois rigueur technique et vision globale. Intégrer l’équipe **SES (SAE Espaces & SSI)** serait pour moi un défi **humain et technologique stimulant**.
+Mon objectif : **conjuguer rigueur, innovation et performance** au service de projets industriels complexes et essentiels — notamment au sein d’un groupe d’impact comme la **RATP**.
 
 ---
 
-## 🎯 Mes objectifs en intégrant votre équipe :
+## 🚆 Intérêt pour l'alternance RATP – Conception Systèmes Industriels
 
-- 🧩 Participer à l’**administration technique** de logiciels critiques (clients/serveurs)
-- 🔍 Contribuer à la **qualité des déploiements** et à la **recette technique/fonctionnelle**
-- 🛠 Proposer des solutions dans l’**analyse des anomalies** et la **rédaction des cahiers des charges**
-- 🚀 Monter en **expertise sur des systèmes industriels complexes et stratégiques**
+Je suis particulièrement motivée par l’opportunité de rejoindre l’équipe **SES (SAE Espaces & SSI)** et de participer à la **conception**, au **déploiement**, et à la **maintenance** de systèmes critiques tels que :
 
----
+- 🔥 **Système de Sécurité Incendie (SSI)**
+- 🚦 **Système d’Aide à l’Exploitation (SAE)**
 
-## 💡 Ce qui me différencie :
-
-- 🎯 **Curiosité technique** et appétence pour les environnements de production
-- 🧠 **Esprit analytique** structuré par mon parcours scientifique
-- 🤝 **Autonomie**, **rigueur**, et grande capacité d’**adaptation**
-- 💻 Compétences en **administration système**, **scripting**, **tests** et **documentation technique**
+Ces dispositifs, déployés à grande échelle sur les réseaux **Métro, RER et Tramway**, exigent une expertise pointue, une approche méthodique, et une vision orientée sécurité et fiabilité.
 
 ---
 
-## 🔗 En cours...
+## 🎯 Objectifs professionnels
 
-Mon portfolio est actuellement en développement.  
-👉 N'hésitez pas à consulter [mes dépôts GitHub](https://github.com/Amal632) pour suivre mes projets.
+- 🔧 Administrer des **logiciels critiques** (architecture client/serveur)
+- 📈 Assurer la **qualité des déploiements** et piloter les **recettes techniques et fonctionnelles**
+- 🧠 Participer à l’**analyse des anomalies**, au **diagnostic**, et à la **rédaction des cahiers des charges**
+- 🚀 Monter en compétence sur les **environnements industriels à haute disponibilité**
 
-📫 Je suis disponible pour tout **échange**, **entretien** ou **présentation de mes réalisations**.
+---
 
+## 💼 Compétences clés
+
+- 💻 **Administration systèmes** (Linux/Windows), virtualisation, maintenance
+- ⚙️ **Scripting** (Python, Bash), automatisation, supervision
+- 🧪 **Tests fonctionnels et techniques**, recettes, validation
+- 📚 **Documentation technique**, rédaction de procédures et rapports
+- 🧠 **Analyse de données**, modélisation, statistiques appliquées
+
+---
+
+## 💡 Forces personnelles
+
+- 🔍 **Curiosité technique** et appétence pour les environnements de production
+- 🧭 **Esprit structuré**, rigueur analytique issue de mon background scientifique
+- 🤝 **Autonomie**, **fiabilité**, **sens des responsabilités**
+- 🔄 Adaptabilité face aux environnements exigeants et aux enjeux critiques
+
+---
+
+## 📫 Me contacter
+
+Je suis ouverte à toute opportunité d’échange ou de collaboration.  
+N'hésitez pas à me contacter pour discuter d’un projet, d’une alternance ou pour en savoir plus sur mes compétences.
+
+> 📍 Localisation : Vitry-sur-Seine  
+> 📬 Disponibilité : Immédiate – Alternance souhaitée  
+> 🔗 GitHub : [github.com/Amal632](https://github.com/Amal632)
+
+---
+
+**Merci de votre visite sur mon profil !**  
+🚧 Portfolio en cours de construction – Restez connectés...
