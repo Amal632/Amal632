@@ -1,4 +1,35 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Amal
+
+Je suis **passionnée par la data** et je m'intéresse à tout ce qui touche à **l'analyse, la visualisation et la science des données**.  
+
+Actuellement **étudiante**, je me forme **progressivement aux outils et techniques de data science** :  
+- 🐍 Python  
+- 🗄️ SQL et bases de données  
+- 📊 Visualisation de données  
+- 🤖 Machine Learning  
+- 💻 Systèmes d’information  
+
+💡 Sur ce GitHub, tu trouveras mes **projets personnels, exercices et expérimentations** liés à la data.  
+Mon objectif est de **développer mes compétences étape par étape** et de les partager avec la communauté.  
+
+📫 **Contact** : n’hésite pas à me contacter ou à explorer mes projets !  
+
+---
+
+## 🚀 Projets récents
+
+- **Projet 1** : Analyse de données [Description / Lien]  
+- **Projet 2** : Tableau de bord interactif [Description / Lien]  
+- **Projet 3** : Modèle de machine learning [Description / Lien]  
+
+---
+
+## 🌱 En ce moment, je me forme à
+
+- Deep Learning avec Python  
+- Data Engineering et pipelines  
+- Visualisation avancée avec Power BI / Tableau  
+
 
 <!--
 **Amal632/Amal632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
