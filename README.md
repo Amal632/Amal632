@@ -14,21 +14,6 @@ Mon objectif est de **développer mes compétences étape par étape** et de les
 
 📫 **Contact** : n’hésite pas à me contacter ou à explorer mes projets !  
 
----
-
-## 🚀 Projets récents
-
-- **Projet 1** : Analyse de données [Description / Lien]  
-- **Projet 2** : Tableau de bord interactif [Description / Lien]  
-- **Projet 3** : Modèle de machine learning [Description / Lien]  
-
----
-
-## 🌱 En ce moment, je me forme à
-
-- Deep Learning avec Python  
-- Data Engineering et pipelines  
-- Visualisation avancée avec Power BI / Tableau  
 
 
 <!--
